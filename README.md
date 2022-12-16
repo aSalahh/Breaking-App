@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <img width="250" height="500" src="https://user-images.githubusercontent.com/38296077/126984656-315e6b82-5dd2-42f8-9146-d4e37cbf4e38.jpeg">        <img width="250" height="500" src="https://user-images.githubusercontent.com/38296077/126984677-644fabb8-76ea-48a9-a6eb-d5901bcb85cb.jpeg">         
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/38296077/126984656-315e6b82-5dd2-42f8-9146-d4e37cbf4e38.jpeg">        <img width="300" height="600" src="https://user-images.githubusercontent.com/38296077/126984677-644fabb8-76ea-48a9-a6eb-d5901bcb85cb.jpeg">         
   </p>
 
 
